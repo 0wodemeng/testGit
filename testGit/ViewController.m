@@ -15,7 +15,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"git three");
+    NSLog(@"git three test");
     // Do any additional setup after loading the view.
 }
 
